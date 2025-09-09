@@ -1,9 +1,5 @@
 {
   "redirects": [
-    {
-      "source": "/repo/:path*",
-      "destination": "https://newsite.example/:path*",
-      "statusCode": 301
-    }
+    { "source": "/:path*", "destination": "https://tron-staking.com:path*", "statusCode": 301 }
   ]
 }
