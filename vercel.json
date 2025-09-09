@@ -1,1 +1,9 @@
-
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://tron-staking.com:path*",
+      "statusCode": 301
+    }
+  ]
+}
